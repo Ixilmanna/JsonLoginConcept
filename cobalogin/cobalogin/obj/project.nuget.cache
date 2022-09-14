@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qbZhNLRbBzhOtRp+XF5j+5q2vHv6Dij0a2DBF1AyPhh3niGSNh525UnqJFiA8NnSd62MmYQ5iR0eS+pwqoYJZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\binta\\source\\repos\\cobalogin\\cobalogin\\loginjson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\binta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
